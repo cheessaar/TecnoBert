@@ -1,4 +1,5 @@
 🛒 TecnoBert | E-commerce
+
 Este proyecto es una plataforma de comercio electrónico de alto rendimiento construida bajo una arquitectura modular (Headless). A diferencia de las tiendas tradicionales, este sistema desacopla totalmente la capa de presentación de la lógica de negocio y gestión de contenidos, permitiendo una escalabilidad excepcional y una experiencia de usuario ultra rápida.
 
 🚀 Características Principales
